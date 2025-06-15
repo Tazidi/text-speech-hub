@@ -1,0 +1,8 @@
+Judul Projek Akhir : Pembangunan Aplikasi Text-to-Speech Berbahasa Indonesia
+Mahasiswa diminta untuk membangun sebuah aplikasi Text-to-Speech (TTS) yang dapat membaca teks berbahasa Indonesia secara natural dan jelas. Aplikasi ini dapat berupa desktop, web, atau mobile.
+
+Tujuan Pembuatan Tugas :
+
+Memahami proses konversi teks menjadi suara.
+Mengenali berbagai pendekatan TTS
+Mengintegrasikan TTS dengan GUI sederhana
